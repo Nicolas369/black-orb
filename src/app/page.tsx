@@ -13,9 +13,7 @@ export default function Home() {
           priority
         /> */}
         <div className="flex flex-col items-center text-center sm:items-start sm:text-left">
-          <h3 className="max-w-md text-sm mb-3 leading-8">
-            In Dev...
-          </h3>
+          <h3 className="max-w-md text-sm mb-3 leading-8">In Dev...</h3>
 
           <h1 className="max-w-xxl text-3xl font-semibold leading-10 tracking-tight text-black dark:text-zinc-50">
             Demo App For AI + GCP (Google Cloud Platform) Practices.
@@ -58,7 +56,9 @@ export default function Home() {
                 height={15}
                 priority
               />
-              <p className="max-w-md ml-2 text-base">Next.js (with Typescript)</p>
+              <p className="max-w-md ml-2 text-base">
+                Next.js (with Typescript)
+              </p>
             </li>
 
             <li className="mt-2 pl-2 flex items-center justify-start">
@@ -70,7 +70,9 @@ export default function Home() {
                 height={15}
                 priority
               />
-              <p className="max-w-md ml-2 text-base">Node.js (with Typescript)</p>
+              <p className="max-w-md ml-2 text-base">
+                Node.js (with Typescript)
+              </p>
             </li>
 
             <li className="mt-2 pl-2 flex items-center justify-start">
